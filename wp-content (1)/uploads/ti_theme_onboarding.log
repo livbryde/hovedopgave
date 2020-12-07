@@ -1,0 +1,161 @@
+[26/Nov/2020:13:49:08] (I): WordPress Instance Info:
+[26/Nov/2020:13:49:08] (I): Home URL : https://liv2ra.dk/hovedopgave
+[26/Nov/2020:13:49:08] (I): Site URL : https://liv2ra.dk/hovedopgave
+[26/Nov/2020:13:49:08] (I): WordPress Version : 5.5.3
+[26/Nov/2020:13:49:08] (I): Onboarding Version : 1.1.0
+[26/Nov/2020:13:49:08] (I): Multisite : No
+[26/Nov/2020:13:49:08] (I): Server Info : Apache
+[26/Nov/2020:13:49:08] (I): PHP Version : 7.4.13
+[26/Nov/2020:13:49:08] (I): HTTPS : Yes
+[26/Nov/2020:13:49:08] (I): PHP Max Execution Time : 50
+[26/Nov/2020:13:49:08] (I): PHP Max Input Vars : 5000
+[26/Nov/2020:13:49:08] (I): Max Upload Size : 268435456
+[26/Nov/2020:13:49:08] (I): Plugins:
+[26/Nov/2020:13:49:08] (I): [PLUGIN] AMP : v2.0.7 (AMP Project Contributors)
+[26/Nov/2020:13:49:08] (I): [PLUGIN] Elementor : v3.0.13 (Elementor.com)
+[26/Nov/2020:13:49:08] (I): [PLUGIN] Feedzy RSS Feeds Lite : v3.5.1 (Themeisle)
+[26/Nov/2020:13:49:08] (I): [PLUGIN] Image optimization service by Optimole : v2.5.6 (Optimole)
+[26/Nov/2020:13:49:08] (I): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.5.10 (ThemeIsle)
+[26/Nov/2020:13:49:08] (I): [PLUGIN] Really Simple SSL : v4.0.0 (Really Simple Plugins)
+[26/Nov/2020:13:49:08] (I): [PLUGIN] Templates Patterns Collection : v1.1.0 (ThemeIsle)
+[26/Nov/2020:13:49:08] (I): [PLUGIN] Orbit Fox Companion : v2.10.0 (Themeisle)
+[26/Nov/2020:13:49:08] (I): [PLUGIN] TranslatePress - Multilingual : v1.8.7 (Cozmoslabs, Razvan Mocanu, Madalin Ungureanu, Cristophor Hurduban)
+[26/Nov/2020:13:49:08] (I): [PLUGIN] Visualizer: Tables and Charts for WordPress : v3.4.8 (Themeisle)
+[26/Nov/2020:13:49:08] (I): [PLUGIN] Weglot Translate : v3.2.0 (Weglot Translate team)
+[26/Nov/2020:13:49:08] (I): [PLUGIN] WPForms Lite : v1.6.3.1 (WPForms)
+[26/Nov/2020:13:49:08] (P): Saving remote XML
+[26/Nov/2020:13:49:08] (S): Saved remote XML at path /customers/4/0/4/liv2ra.dk/httpd.www/hovedopgave/wp-content/uploads/themeisle-demo-import.xml.
+[26/Nov/2020:13:49:08] (P): Starting content import...
+[26/Nov/2020:13:49:08] (S): Import started.
+[26/Nov/2020:13:49:08] (S): Parsing XML file.
+[26/Nov/2020:13:49:08] (P): Starting parsing file:/customers/4/0/4/liv2ra.dk/httpd.www/hovedopgave/wp-content/uploads/themeisle-demo-import.xml
+[26/Nov/2020:13:49:08] (P): Using WXR_Parser_SimpleXML...
+[26/Nov/2020:13:49:08] (S): Parsed XML
+[26/Nov/2020:13:49:08] (P): Processing categories...
+[26/Nov/2020:13:49:08] (S): Processed categories.
+[26/Nov/2020:13:49:08] (P): Processing tags...
+[26/Nov/2020:13:49:08] (S): No tags to process.
+[26/Nov/2020:13:49:08] (P): Processing terms...
+[26/Nov/2020:13:49:08] (W): Failed to import product_tag apple
+[26/Nov/2020:13:49:08] (E): Invalid taxonomy.
+[26/Nov/2020:13:49:08] (W): Failed to import product_tag bananas
+[26/Nov/2020:13:49:08] (E): Invalid taxonomy.
+[26/Nov/2020:13:49:08] (W): Failed to import product_tag bannanas
+[26/Nov/2020:13:49:08] (E): Invalid taxonomy.
+[26/Nov/2020:13:49:08] (W): Failed to import product_tag beet
+[26/Nov/2020:13:49:08] (E): Invalid taxonomy.
+[26/Nov/2020:13:49:08] (W): Failed to import product_tag carrot
+[26/Nov/2020:13:49:08] (E): Invalid taxonomy.
+[26/Nov/2020:13:49:08] (W): Failed to import product_tag cucumber
+[26/Nov/2020:13:49:08] (E): Invalid taxonomy.
+[26/Nov/2020:13:49:08] (W): Failed to import product_tag fersh
+[26/Nov/2020:13:49:08] (E): Invalid taxonomy.
+[26/Nov/2020:13:49:08] (W): Failed to import product_tag fresh
+[26/Nov/2020:13:49:08] (E): Invalid taxonomy.
+[26/Nov/2020:13:49:08] (W): Failed to import product_cat Fresh
+[26/Nov/2020:13:49:08] (E): Invalid taxonomy.
+[26/Nov/2020:13:49:08] (W): Failed to import product_tag fruits
+[26/Nov/2020:13:49:08] (E): Invalid taxonomy.
+[26/Nov/2020:13:49:08] (W): Failed to import product_cat Fruits smoothies
+[26/Nov/2020:13:49:08] (E): Invalid taxonomy.
+[26/Nov/2020:13:49:08] (W): Failed to import product_tag healthy
+[26/Nov/2020:13:49:08] (E): Invalid taxonomy.
+[26/Nov/2020:13:49:08] (W): Failed to import product_tag kiwi
+[26/Nov/2020:13:49:08] (E): Invalid taxonomy.
+[26/Nov/2020:13:49:08] (W): Failed to import product_tag lemon
+[26/Nov/2020:13:49:08] (E): Invalid taxonomy.
+[26/Nov/2020:13:49:08] (W): Failed to import product_tag lemons
+[26/Nov/2020:13:49:08] (E): Invalid taxonomy.
+[26/Nov/2020:13:49:08] (W): Failed to import product_tag lime
+[26/Nov/2020:13:49:08] (E): Invalid taxonomy.
+[26/Nov/2020:13:49:08] (W): Failed to import product_tag mix
+[26/Nov/2020:13:49:08] (E): Invalid taxonomy.
+[26/Nov/2020:13:49:08] (W): Failed to import product_cat Mix
+[26/Nov/2020:13:49:08] (E): Invalid taxonomy.
+[26/Nov/2020:13:49:08] (W): Failed to import product_tag oranges
+[26/Nov/2020:13:49:08] (E): Invalid taxonomy.
+[26/Nov/2020:13:49:08] (W): Failed to import product_tag peppermint
+[26/Nov/2020:13:49:08] (E): Invalid taxonomy.
+[26/Nov/2020:13:49:08] (W): Failed to import product_tag seed
+[26/Nov/2020:13:49:08] (E): Invalid taxonomy.
+[26/Nov/2020:13:49:08] (W): Failed to import product_tag smoothie
+[26/Nov/2020:13:49:08] (E): Invalid taxonomy.
+[26/Nov/2020:13:49:08] (W): Failed to import product_tag strawberry
+[26/Nov/2020:13:49:08] (E): Invalid taxonomy.
+[26/Nov/2020:13:49:08] (W): Failed to import product_tag sugar
+[26/Nov/2020:13:49:08] (E): Invalid taxonomy.
+[26/Nov/2020:13:49:08] (W): Failed to import product_tag sweet
+[26/Nov/2020:13:49:08] (E): Invalid taxonomy.
+[26/Nov/2020:13:49:08] (W): Failed to import product_tag vegetables
+[26/Nov/2020:13:49:08] (E): Invalid taxonomy.
+[26/Nov/2020:13:49:08] (W): Failed to import product_cat Vegetables smoothies
+[26/Nov/2020:13:49:08] (E): Invalid taxonomy.
+[26/Nov/2020:13:49:08] (W): Failed to import product_tag water
+[26/Nov/2020:13:49:08] (E): Invalid taxonomy.
+[26/Nov/2020:13:49:08] (S): Processed terms.
+[26/Nov/2020:13:49:08] (P): Processing posts...
+[26/Nov/2020:13:49:08] (S): Media alexis-client_signature.png already exists.
+[26/Nov/2020:13:49:08] (S): Media blog-2 already exists.
+[26/Nov/2020:13:49:08] (S): Media fruits-mix-smoothie1 already exists.
+[26/Nov/2020:13:49:08] (S): Media fruit-mix-smoothie1-1 already exists.
+[26/Nov/2020:13:49:08] (S): Media kiwi-strawberry-smoothie1 already exists.
+[26/Nov/2020:13:49:08] (S): Media berries-yoghurt-smoothie1 already exists.
+[26/Nov/2020:13:49:08] (S): Media strawberry-lime-smoothie1 already exists.
+[26/Nov/2020:13:49:08] (S): Media spicy-strawberry-smoothie1 already exists.
+[26/Nov/2020:13:49:08] (S): Media blueberry-smoothie1 already exists.
+[26/Nov/2020:13:49:08] (S): Media strawberry-peppermint-smoothie1 already exists.
+[26/Nov/2020:13:49:08] (S): Media strawberry-smoothie1 already exists.
+[26/Nov/2020:13:49:09] (S): Media blog-1 already exists.
+[26/Nov/2020:13:49:09] (S): Media cropped-neve_onlight.png already exists.
+[26/Nov/2020:13:49:09] (S): Media nv-big-title-sprites1 already exists.
+[26/Nov/2020:13:49:09] (S): Media play1 already exists.
+[26/Nov/2020:13:49:09] (S): Media nv-key-points-sprites2 already exists.
+[26/Nov/2020:13:49:09] (S): Media nv-stats-sprites already exists.
+[26/Nov/2020:13:49:09] (S): Media nv-benefits-sprites1 already exists.
+[26/Nov/2020:13:49:09] (S): Media nv-social-sprites2 already exists.
+[26/Nov/2020:13:49:09] (S): Media logo-imgtext already exists.
+[26/Nov/2020:13:49:09] (S): Custom CSS neve already exists.
+[26/Nov/2020:13:49:09] (S): Media blog-3 already exists.
+[26/Nov/2020:13:49:09] (S): Media nv-team1-1 already exists.
+[26/Nov/2020:13:49:09] (S): Media nv-team2-2 already exists.
+[26/Nov/2020:13:49:09] (S): Media nv-team3-3 already exists.
+[26/Nov/2020:13:49:09] (S): Media nv-team4-4 already exists.
+[26/Nov/2020:13:49:09] (P): Processing single menu item ' '...
+[26/Nov/2020:13:49:09] (P): Processing single menu item ' Sections '...
+[26/Nov/2020:13:49:09] (S): Media path already exists.
+[26/Nov/2020:13:49:09] (S): Media street-at-night already exists.
+[26/Nov/2020:13:49:09] (S): Media woocommerce-placeholder already exists.
+[26/Nov/2020:13:49:09] (P): Processing single menu item ' '...
+[26/Nov/2020:13:49:09] (P): Processing single menu item ' About us '...
+[26/Nov/2020:13:49:09] (S): Menu item already exists.
+[26/Nov/2020:13:49:09] (P): Processing single menu item ' Our Focus '...
+[26/Nov/2020:13:49:09] (S): Menu item already exists.
+[26/Nov/2020:13:49:09] (P): Processing single menu item ' Our Team '...
+[26/Nov/2020:13:49:09] (S): Menu item already exists.
+[26/Nov/2020:13:49:09] (P): Processing single menu item ' Features '...
+[26/Nov/2020:13:49:09] (S): Menu item already exists.
+[26/Nov/2020:13:49:09] (P): Processing single menu item ' Pricing '...
+[26/Nov/2020:13:49:09] (S): Menu item already exists.
+[26/Nov/2020:13:49:09] (P): Processing single menu item ' Testimonials '...
+[26/Nov/2020:13:49:09] (S): Menu item already exists.
+[26/Nov/2020:13:49:09] (P): Processing single menu item ' Contact us '...
+[26/Nov/2020:13:49:09] (S): Menu item already exists.
+[26/Nov/2020:13:49:09] (P): Processing single menu item ' '...
+[26/Nov/2020:13:49:09] (S): Page Blog already exists.
+[26/Nov/2020:13:49:09] (S): Page Home already exists.
+[26/Nov/2020:13:49:09] (S): Processed posts.
+[26/Nov/2020:13:49:09] (P): Processing single menu item ' '...
+[26/Nov/2020:13:49:09] (P): Processing single menu item ' Sections '...
+[26/Nov/2020:13:49:09] (S): Processed single menu item.
+[26/Nov/2020:13:49:09] (P): Processing single menu item ' '...
+[26/Nov/2020:13:49:09] (S): Processed single menu item.
+[26/Nov/2020:13:49:09] (P): Processing single menu item ' '...
+[26/Nov/2020:13:49:09] (S): Processed single menu item.
+[26/Nov/2020:13:49:09] (P): Cleaning up import with id ...
+[26/Nov/2020:13:49:09] (P): Done cleanup. Flushing cache...
+[26/Nov/2020:13:49:09] (P): Flushed cache. Removing temporary data..
+[26/Nov/2020:13:49:09] (S): Done importing
+[26/Nov/2020:13:49:09] (P): Busting elementor cache
+[26/Nov/2020:13:49:09] (S): Front page set up with id: 645.
+[26/Nov/2020:13:49:09] (P): Setting up shop page.
+[26/Nov/2020:13:49:09] (S): No WooCommerce.
